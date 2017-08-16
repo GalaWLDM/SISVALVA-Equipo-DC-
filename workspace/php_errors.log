@@ -1,0 +1,1 @@
+[15-Aug-2017 16:54:03 UTC] PHP Parse error:  syntax error, unexpected '', '' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/app/Http/routes.php on line 20
